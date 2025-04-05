@@ -1,0 +1,19 @@
+
+
+<script>
+// Create or join a lobby
+console.log("asdf")
+fetch('/api/lobby/create', { method: 'POST' })
+  .then(res => res.json())
+  .then(data => {
+    const lobbyCode = data.lobbyCode;
+    socket.emit('joinLobby', { lobbyCode });
+  });
+
+socket.on('joinedLobby', data => {
+  console.log('Joined lobby:', data.lobbyCode);
+});
+
+// Send a message to the lobby
+socket.emit('sendMessageToLobby', { lobbyCode: 'ABCDE', message: 'Hi everyone!' });
+</script>
