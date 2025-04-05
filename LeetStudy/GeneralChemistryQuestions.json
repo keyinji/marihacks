@@ -1,0 +1,162 @@
+[
+  {
+    "id": "chem1_q001",
+    "question": "Balance the redox reaction in acidic solution: MnO₄⁻ + Fe²⁺ → Mn²⁺ + Fe³⁺."
+  },
+  {
+    "id": "chem1_q002",
+    "question": "Identify the oxidizing and reducing agents in the reaction: Zn + Cu²⁺ → Zn²⁺ + Cu."
+  },
+  {
+    "id": "chem1_q003",
+    "question": "Describe the shape and orientation of the p orbital. How does it differ from an s orbital?"
+  },
+  {
+    "id": "chem1_q004",
+    "question": "What are the four quantum numbers for the last electron added in the Cl atom?"
+  },
+  {
+    "id": "chem1_q005",
+    "question": "Using solubility rules, predict whether a precipitate forms when Na₂SO₄ is mixed with BaCl₂."
+  },
+  {
+    "id": "chem1_q006",
+    "question": "Classify the following as soluble or insoluble in water: AgCl, KNO₃, PbSO₄, Na₂CO₃."
+  },
+  {
+    "id": "chem1_q007",
+    "question": "Calculate the theoretical yield of water when 5.0 g of hydrogen reacts with excess oxygen."
+  },
+  {
+    "id": "chem1_q008",
+    "question": "A reaction has a theoretical yield of 25.0 g, but only 18.0 g is obtained. Calculate the percent yield."
+  },
+  {
+    "id": "chem1_q009",
+    "question": "Write the complete ionic and net ionic equation for the reaction between NaOH and HCl."
+  },
+  {
+    "id": "chem1_q010",
+    "question": "Does a precipitate form when aqueous solutions of Na₂CO₃ and CaCl₂ are mixed? Write the balanced net ionic equation if it does."
+  },
+  {
+    "id": "chem1_q011",
+    "question": "Use Hess's Law to calculate ΔH° for the reaction: C(s) + O₂(g) → CO₂(g), given reactions and enthalpies."
+  },
+  {
+    "id": "chem1_q012",
+    "question": "Apply Hess’s Law using the following reactions to determine the enthalpy change of a target reaction involving H₂, O₂, and H₂O."
+  },
+  {
+    "id": "chem1_q013",
+    "question": "Identify the Brønsted–Lowry acid and base in the reaction: NH₃ + H₂O ⇌ NH₄⁺ + OH⁻."
+  },
+  {
+    "id": "chem1_q014",
+    "question": "Write a balanced molecular equation for the reaction between sulfuric acid and sodium hydroxide."
+  },
+  {
+    "id": "chem1_q015",
+    "question": "Calculate the amount of heat required to raise the temperature of 50.0 g of water from 25.0°C to 75.0°C. (specific heat of water = 4.18 J/g·°C)"
+  },
+  {
+    "id": "chem1_q016",
+    "question": "A 100.0 g sample of metal absorbs 836 J of heat, raising its temperature by 20.0°C. Find the specific heat capacity of the metal."
+  },
+  {
+    "id": "chem1_q017",
+    "question": "How many moles of oxygen are needed to completely combust 2.0 moles of propane (C₃H₈)?"
+  },
+  {
+    "id": "chem1_q018",
+    "question": "How many grams of CO₂ are produced when 10.0 g of glucose (C₆H₁₂O₆) is combusted completely?"
+  },
+  {
+    "id": "chem1_q019",
+    "question": "Express 0.0045600 with the correct number of significant figures in scientific notation."
+  },
+  {
+    "id": "chem1_q020",
+    "question": "Perform the following calculation with correct significant figures: (3.24 × 10²) + (1.2 × 10¹)."
+  },
+  {
+    "id": "chem1_q021",
+    "question": "What are three best laboratory practices to follow when heating chemicals over an open flame?"
+  },
+  {
+    "id": "chem1_q022",
+    "question": "List the appropriate PPE (personal protective equipment) for a lab where concentrated acids are used."
+  },
+  {
+    "id": "chem1_q023",
+    "question": "Name the compound Na₂SO₄ and classify it as ionic or covalent."
+  },
+  {
+    "id": "chem1_q024",
+    "question": "Provide the name for the compound Fe(NO₃)₃, and identify the oxidation state of iron."
+  },
+  {
+    "id": "chem1_q025",
+    "question": "Draw and explain the electron configuration of oxygen (O)."
+  },
+  {
+    "id": "chem1_q026",
+    "question": "Determine the number of protons, neutrons, and electrons in ²⁷Al³⁺."
+  },
+  {
+    "id": "chem1_q027",
+    "question": "Predict the product of the reaction between H₂SO₄ and Ba(OH)₂. Write a balanced equation."
+  },
+  {
+    "id": "chem1_q028",
+    "question": "Write the orbital diagram for nitrogen and identify the number of unpaired electrons."
+  },
+  {
+    "id": "chem1_q029",
+    "question": "Classify the following reactions as redox or not: (a) Zn + HCl → ZnCl₂ + H₂, (b) NaOH + HNO₃ → NaNO₃ + H₂O."
+  },
+  {
+    "id": "chem1_q030",
+    "question": "Explain how to prepare 250.0 mL of 0.100 M NaCl solution from solid NaCl."
+  },
+  {
+    "id": "chem1_q031",
+    "question": "Calculate the molarity of a solution made by dissolving 5.00 g of NaOH in 500.0 mL of water."
+  },
+  {
+    "id": "chem1_q032",
+    "question": "Determine the empirical formula of a compound that contains 40.0% C, 6.7% H, and 53.3% O by mass."
+  },
+  {
+    "id": "chem1_q033",
+    "question": "Describe the differences between ionic and covalent bonding using NaCl and H₂O as examples."
+  },
+  {
+    "id": "chem1_q034",
+    "question": "Calculate the pH of a 0.025 M HCl solution."
+  },
+  {
+    "id": "chem1_q035",
+    "question": "A solution has [H⁺] = 1.0 × 10⁻⁵ M. Is the solution acidic, basic, or neutral? What is its pH?"
+  },
+  {
+    "id": "chem1_q036",
+    "question": "Determine the limiting reagent when 4.00 g of H₂ reacts with 20.0 g of O₂ to form water."
+  },
+  {
+    "id": "chem1_q037",
+    "question": "Write a net ionic equation for the precipitation of lead(II) iodide from aqueous solutions."
+  },
+  {
+    "id": "chem1_q038",
+    "question": "Describe the energy changes that occur during an endothermic and an exothermic reaction."
+  },
+  {
+    "id": "chem1_q039",
+    "question": "Using enthalpies of formation, calculate ΔH° for the combustion of methane: CH₄ + 2O₂ → CO₂ + 2H₂O."
+  },
+  {
+    "id": "chem1_q040",
+    "question": "What safety precautions should be taken when diluting concentrated sulfuric acid with water?"
+  }
+]
