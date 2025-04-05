@@ -1,163 +1,205 @@
 [
   {
     "id": "CBQ001",
-    "question": "Describe the function of the mitochondrion in cellular metabolism and explain why it is often referred to as the “powerhouse” of the cell."
+    "question": "Describe the function of the mitochondrion in cellular metabolism and explain why it is often referred to as the “powerhouse” of the cell.",
+    "solution": "The mitochondrion is the site of aerobic respiration, where ATP is produced. It contains enzymes involved in the Krebs cycle and the electron transport chain, which generate ATP from glucose and oxygen. Mitochondria are often called the 'powerhouse' because they are responsible for generating most of the cell's energy in the form of ATP."
   },
   {
     "id": "CBQ002",
-    "question": "Explain the steps of DNA replication and the role of key enzymes involved in the process."
+    "question": "Explain the steps of DNA replication and the role of key enzymes involved in the process.",
+    "solution": "DNA replication occurs in several steps. First, the enzyme helicase unwinds the DNA double helix. DNA polymerase then adds complementary nucleotides to the template strands, synthesizing new DNA strands. Primase synthesizes RNA primers to initiate replication, and DNA ligase seals the gaps between Okazaki fragments on the lagging strand."
   },
   {
     "id": "CBQ003",
-    "question": "Compare and contrast the structures and functions of rough and smooth endoplasmic reticulum."
+    "question": "Compare and contrast the structures and functions of rough and smooth endoplasmic reticulum.",
+    "solution": "The rough endoplasmic reticulum (RER) has ribosomes attached to its surface and is involved in protein synthesis and processing. The smooth endoplasmic reticulum (SER), on the other hand, lacks ribosomes and is involved in lipid synthesis, detoxification, and calcium ion storage."
   },
   {
     "id": "CBQ004",
-    "question": "Discuss how ATP is produced during aerobic respiration, including the roles of glycolysis, the Krebs cycle, and the electron transport chain."
+    "question": "Discuss how ATP is produced during aerobic respiration, including the roles of glycolysis, the Krebs cycle, and the electron transport chain.",
+    "solution": "ATP is produced in three main stages: Glycolysis breaks down glucose into pyruvate, yielding 2 ATP and NADH. In the mitochondria, the Krebs cycle processes pyruvate to produce NADH, FADH2, and a small amount of ATP. The electron transport chain uses NADH and FADH2 to generate a proton gradient across the inner mitochondrial membrane, driving the production of ATP via oxidative phosphorylation."
   },
   {
     "id": "CBQ005",
-    "question": "Describe the process of protein synthesis from gene to functional protein, including transcription and translation."
+    "question": "Describe the process of protein synthesis from gene to functional protein, including transcription and translation.",
+    "solution": "Protein synthesis starts with transcription, where RNA polymerase creates a messenger RNA (mRNA) copy of a gene in the nucleus. The mRNA then exits the nucleus and enters the cytoplasm, where ribosomes translate the mRNA into a polypeptide chain. Transfer RNA (tRNA) brings amino acids to the ribosome, which links them together in the correct order to form a functional protein."
   },
   {
     "id": "CBQ006",
-    "question": "Explain how mutations in DNA can affect the structure and function of proteins. Provide an example."
+    "question": "Explain how mutations in DNA can affect the structure and function of proteins. Provide an example.",
+    "solution": "Mutations in DNA can lead to changes in the amino acid sequence of proteins, potentially altering their structure and function. For example, a point mutation in the hemoglobin gene can cause sickle cell anemia, where the hemoglobin protein is altered, causing red blood cells to become sickle-shaped and impairing oxygen transport."
   },
   {
     "id": "CBQ007",
-    "question": "Illustrate and describe the stages of mitosis, including the events that occur in each phase."
+    "question": "Illustrate and describe the stages of mitosis, including the events that occur in each phase.",
+    "solution": "Mitosis consists of several phases: Prophase (chromosomes condense, the nuclear envelope breaks down), Metaphase (chromosomes align at the cell's equator), Anaphase (sister chromatids are pulled apart), and Telophase (nuclear membranes reform). Cytokinesis follows, dividing the cytoplasm into two daughter cells."
   },
   {
     "id": "CBQ008",
-    "question": "Compare mitosis and meiosis in terms of purpose, process, and outcomes."
+    "question": "Compare mitosis and meiosis in terms of purpose, process, and outcomes.",
+    "solution": "Mitosis is a process of cell division that results in two genetically identical daughter cells, used for growth and repair. Meiosis, on the other hand, results in four genetically distinct gametes (sperm or egg cells) with half the chromosome number, which is crucial for sexual reproduction."
   },
   {
     "id": "CBQ009",
-    "question": "Explain how crossing over during meiosis contributes to genetic variation."
+    "question": "Explain how crossing over during meiosis contributes to genetic variation.",
+    "solution": "Crossing over occurs during prophase I of meiosis when homologous chromosomes exchange segments of their DNA. This recombination creates new combinations of alleles on chromosomes, leading to genetic variation in offspring."
   },
   {
     "id": "CBQ010",
-    "question": "Describe the structure of a phospholipid and explain how phospholipids form the basis of cellular membranes."
+    "question": "Describe the structure of a phospholipid and explain how phospholipids form the basis of cellular membranes.",
+    "solution": "A phospholipid consists of a hydrophilic (water-attracting) phosphate group and two hydrophobic (water-repelling) fatty acid tails. In aqueous environments, phospholipids arrange themselves into a bilayer, with the hydrophilic heads facing outward and the hydrophobic tails facing inward, forming the basic structure of cell membranes."
   },
   {
     "id": "CBQ011",
-    "question": "Explain the central dogma of molecular biology and how it relates to gene expression."
+    "question": "Explain the central dogma of molecular biology and how it relates to gene expression.",
+    "solution": "The central dogma of molecular biology states that genetic information flows from DNA to RNA to protein. DNA is transcribed into messenger RNA (mRNA), which is then translated into a protein. This process is fundamental to gene expression, where genes encode the instructions for producing specific proteins."
   },
   {
     "id": "CBQ012",
-    "question": "Describe the structure of a nucleotide and explain how nucleotides link together to form DNA."
+    "question": "Describe the structure of a nucleotide and explain how nucleotides link together to form DNA.",
+    "solution": "A nucleotide consists of a sugar, a phosphate group, and a nitrogenous base. In DNA, nucleotides link together through phosphodiester bonds between the phosphate group of one nucleotide and the sugar of the next, forming long chains that twist into the double helix structure."
   },
   {
     "id": "CBQ013",
-    "question": "Compare the processes of passive transport and active transport in cells. Give an example of each."
+    "question": "Compare the processes of passive transport and active transport in cells. Give an example of each.",
+    "solution": "Passive transport involves the movement of substances across the cell membrane without energy input, such as diffusion or facilitated diffusion (e.g., glucose transport). Active transport requires energy (usually ATP) to move substances against their concentration gradient, such as the sodium-potassium pump in nerve cells."
   },
   {
     "id": "CBQ014",
-    "question": "Explain how enzymes speed up chemical reactions in cells and discuss the concept of activation energy."
+    "question": "Explain how enzymes speed up chemical reactions in cells and discuss the concept of activation energy.",
+    "solution": "Enzymes lower the activation energy required for a chemical reaction to occur, allowing reactions to happen more quickly. They do this by binding to substrates and stabilizing the transition state, which reduces the energy barrier for the reaction."
   },
   {
     "id": "CBQ015",
-    "question": "Discuss the differences between prokaryotic and eukaryotic cells, including at least three structural differences."
+    "question": "Discuss the differences between prokaryotic and eukaryotic cells, including at least three structural differences.",
+    "solution": "Prokaryotic cells lack membrane-bound organelles, such as a nucleus, and are generally smaller than eukaryotic cells. Eukaryotic cells have a well-defined nucleus containing DNA, as well as organelles like mitochondria and the endoplasmic reticulum."
   },
   {
     "id": "CBQ016",
-    "question": "Explain the role of ribosomes in protein synthesis and identify where in the cell ribosomes can be found."
+    "question": "Explain the role of ribosomes in protein synthesis and identify where in the cell ribosomes can be found.",
+    "solution": "Ribosomes are responsible for translating mRNA into proteins. They can be found either floating freely in the cytoplasm or attached to the rough endoplasmic reticulum (RER), where they synthesize proteins that will be secreted or integrated into membranes."
   },
   {
     "id": "CBQ017",
-    "question": "Describe the function of the Golgi apparatus and how it contributes to protein processing and transport."
+    "question": "Describe the function of the Golgi apparatus and how it contributes to protein processing and transport.",
+    "solution": "The Golgi apparatus modifies, sorts, and packages proteins and lipids received from the endoplasmic reticulum. It adds carbohydrate groups to proteins (glycosylation) and sends them to their final destinations inside or outside the cell."
   },
   {
     "id": "CBQ018",
-    "question": "Compare the roles of DNA and RNA in the cell and explain why both are necessary for gene expression."
+    "question": "Compare the roles of DNA and RNA in the cell and explain why both are necessary for gene expression.",
+    "solution": "DNA stores the genetic information necessary for the synthesis of proteins. RNA, particularly mRNA, acts as a messenger that carries the genetic code from DNA to ribosomes, where it is translated into proteins. RNA also plays roles in catalysis (rRNA) and protein assembly (tRNA)."
   },
   {
     "id": "CBQ019",
-    "question": "Explain the difference between chromatin and chromosomes and when each form is present in the cell cycle."
+    "question": "Explain the difference between chromatin and chromosomes and when each form is present in the cell cycle.",
+    "solution": "Chromatin is the uncondensed form of DNA, found during interphase when the cell is not dividing. Chromosomes are the condensed, organized structures of chromatin visible during cell division (mitosis and meiosis)."
   },
   {
     "id": "CBQ020",
-    "question": "Describe the process of cytokinesis and how it differs between plant and animal cells."
+    "question": "Describe the process of cytokinesis and how it differs between plant and animal cells.",
+    "solution": "Cytokinesis is the division of the cytoplasm following mitosis. In animal cells, a contractile ring of actin filaments forms a cleavage furrow that pinches the cell membrane. In plant cells, a cell plate forms in the middle, which eventually develops into a new cell wall."
   },
   {
     "id": "CBQ021",
-    "question": "Explain the significance of the semi-conservative nature of DNA replication."
-  },
+    "question": "Explain the significance of the semi-conservative nature of DNA replication.",
+    "solution": "DNA replication is semi-conservative because each new DNA molecule consists of one original strand and one newly synthesized strand. This mechanism ensures the accurate transmission of genetic information."
+  }
+]
+[
   {
     "id": "CBQ022",
-    "question": "Describe the function of lysosomes and how they contribute to maintaining cellular health."
+    "question": "Describe the function of lysosomes and how they contribute to maintaining cellular health.",
+    "solution": "Lysosomes contain enzymes that break down waste materials and cellular debris. They are involved in digesting excess or worn-out organelles, food particles, and engulfed viruses or bacteria, maintaining cellular health by recycling components."
   },
   {
     "id": "CBQ023",
-    "question": "Compare the roles of mRNA, tRNA, and rRNA in the process of translation."
+    "question": "Compare the roles of mRNA, tRNA, and rRNA in the process of translation.",
+    "solution": "mRNA carries the genetic code from the DNA to the ribosome, tRNA brings the appropriate amino acids to the ribosome, and rRNA is a structural component of the ribosome, helping catalyze the formation of peptide bonds between amino acids during protein synthesis."
   },
   {
     "id": "CBQ024",
-    "question": "Describe how feedback inhibition regulates enzyme activity in metabolic pathways."
+    "question": "Describe how feedback inhibition regulates enzyme activity in metabolic pathways.",
+    "solution": "In feedback inhibition, the end product of a metabolic pathway binds to an enzyme earlier in the pathway, inhibiting its activity. This prevents the overproduction of the end product, maintaining balance within the cell."
   },
   {
     "id": "CBQ025",
-    "question": "Discuss how the structure of proteins determines their function and what happens when a protein is denatured."
+    "question": "Discuss how the structure of proteins determines their function and what happens when a protein is denatured.",
+    "solution": "Proteins have a specific three-dimensional shape that is critical to their function. The sequence of amino acids determines the protein's structure. Denaturation, caused by factors like heat or pH changes, disrupts this structure, leading to loss of function."
   },
   {
     "id": "CBQ026",
-    "question": "Explain how the cell membrane maintains homeostasis through selective permeability."
+    "question": "Explain how the cell membrane maintains homeostasis through selective permeability.",
+    "solution": "The cell membrane regulates what enters and leaves the cell through selective permeability. It allows essential molecules like oxygen and glucose to enter, while waste products like carbon dioxide are removed, maintaining the cell’s internal environment."
   },
   {
     "id": "CBQ027",
-    "question": "Describe the major events of each stage in the cell cycle and the significance of checkpoints."
+    "question": "Describe the major events of each stage in the cell cycle and the significance of checkpoints.",
+    "solution": "The cell cycle consists of interphase (G1, S, G2) and mitosis. In G1, the cell grows; in S phase, DNA is replicated; in G2, the cell prepares for division. Mitosis includes prophase, metaphase, anaphase, and telophase. Checkpoints ensure the cell cycle proceeds correctly, with DNA repair or apoptosis if errors are found."
   },
   {
     "id": "CBQ028",
-    "question": "Discuss the role of centrioles and spindle fibers in mitosis."
+    "question": "Discuss the role of centrioles and spindle fibers in mitosis.",
+    "solution": "Centrioles organize the spindle fibers during mitosis. Spindle fibers attach to centromeres of chromosomes, helping to align and separate them into two daughter cells during anaphase."
   },
   {
     "id": "CBQ029",
-    "question": "Explain how genetic recombination occurs during meiosis and why it is important for evolution."
+    "question": "Explain how genetic recombination occurs during meiosis and why it is important for evolution.",
+    "solution": "Genetic recombination occurs during meiosis through crossing over, where homologous chromosomes exchange genetic material. This increases genetic diversity, which is crucial for natural selection and evolution."
   },
   {
     "id": "CBQ030",
-    "question": "Compare and contrast the inheritance patterns of dominant, recessive, and codominant alleles."
+    "question": "Compare and contrast the inheritance patterns of dominant, recessive, and codominant alleles.",
+    "solution": "Dominant alleles mask the expression of recessive alleles in heterozygous individuals, while recessive alleles are only expressed in homozygous individuals. Codominance occurs when both alleles are expressed equally, such as in AB blood type where both A and B antigens are present."
   },
   {
     "id": "CBQ031",
-    "question": "Describe how Punnett squares can be used to predict the probability of offspring genotypes."
+    "question": "Describe how Punnett squares can be used to predict the probability of offspring genotypes.",
+    "solution": "Punnett squares are used to predict the genotypes of offspring by crossing the alleles of two parent organisms. The square helps visualize all possible allele combinations and the likelihood of each genotype."
   },
   {
     "id": "CBQ032",
-    "question": "Explain the role of DNA polymerase in DNA replication and how its function ensures fidelity."
+    "question": "Explain the role of DNA polymerase in DNA replication and how its function ensures fidelity.",
+    "solution": "DNA polymerase adds nucleotides to the growing DNA strand during replication. It ensures fidelity by proofreading the newly synthesized strand, removing incorrectly paired nucleotides through its exonuclease activity."
   },
   {
     "id": "CBQ033",
-    "question": "Discuss the significance of hydrogen bonding in the structure of the DNA double helix."
+    "question": "Discuss the significance of hydrogen bonding in the structure of the DNA double helix.",
+    "solution": "Hydrogen bonds between complementary nitrogenous bases (adenine-thymine and cytosine-guanine) stabilize the double helix structure of DNA. These bonds are strong enough to maintain the structure but weak enough to allow the DNA to be unwound during replication."
   },
   {
     "id": "CBQ034",
-    "question": "Describe how a single gene can lead to the production of different proteins through alternative splicing."
+    "question": "Describe how a single gene can lead to the production of different proteins through alternative splicing.",
+    "solution": "Alternative splicing allows a single gene to produce multiple protein variants by including or excluding certain exons from the mRNA transcript. This process increases the diversity of proteins that can be produced from a single gene."
   },
   {
     "id": "CBQ035",
-    "question": "Explain the difference between genotype and phenotype using an example."
+    "question": "Explain the difference between genotype and phenotype using an example.",
+    "solution": "Genotype refers to the genetic makeup of an organism, while phenotype refers to the observable traits. For example, a person’s genotype for eye color may be homozygous blue, but their phenotype would be blue eyes."
   },
   {
     "id": "CBQ036",
-    "question": "Describe the major differences between autosomal and sex-linked inheritance."
+    "question": "Describe the major differences between autosomal and sex-linked inheritance.",
+    "solution": "Autosomal inheritance involves genes located on non-sex chromosomes, while sex-linked inheritance involves genes located on sex chromosomes (X or Y). Sex-linked traits are often inherited differently between males and females due to the differences in sex chromosomes."
   },
   {
     "id": "CBQ037",
-    "question": "Explain how environmental factors can influence gene expression."
+    "question": "Explain how environmental factors can influence gene expression.",
+    "solution": "Environmental factors such as temperature, light, or nutrition can influence the expression of genes by affecting the activity of transcription factors or modifying chromatin structure. For example, exposure to sunlight can influence the production of melanin in skin cells."
   },
   {
     "id": "CBQ038",
-    "question": "Describe the role of checkpoints in the cell cycle and how their failure can lead to cancer."
+    "question": "Describe the role of checkpoints in the cell cycle and how their failure can lead to cancer.",
+    "solution": "Cell cycle checkpoints ensure proper progression and DNA integrity. If a checkpoint fails, it can lead to uncontrolled cell division and mutations, which may result in cancer. Mutations in checkpoint regulators like p53 can prevent the detection of DNA damage."
   },
   {
     "id": "CBQ039",
-    "question": "Discuss how base-pair substitutions and frameshift mutations can affect protein synthesis."
+    "question": "Discuss how base-pair substitutions and frameshift mutations can affect protein synthesis.",
+    "solution": "Base-pair substitutions can cause silent mutations, missense mutations (changing an amino acid), or nonsense mutations (creating a stop codon). Frameshift mutations, caused by insertions or deletions, shift the reading frame, usually resulting in a completely altered protein or a premature stop codon."
   },
   {
     "id": "CBQ040",
-    "question": "Explain how telomeres protect chromosomes and what happens to them as cells divide."
+    "question": "Explain how telomeres protect chromosomes and what happens to them as cells divide.",
+    "solution": "Telomeres are repetitive DNA sequences at the ends of chromosomes that protect them from degradation and prevent the loss of important genetic information during DNA replication. As cells divide, telomeres shorten, which is associated with aging and cell death."
   }
 ]
 
