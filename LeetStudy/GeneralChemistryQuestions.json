@@ -1,162 +1,205 @@
 [
   {
     "id": "chem1_q001",
-    "question": "Balance the redox reaction in acidic solution: MnO₄⁻ + Fe²⁺ → Mn²⁺ + Fe³⁺."
+    "question": "Balance the redox reaction in acidic solution: MnO₄⁻ + Fe²⁺ → Mn²⁺ + Fe³⁺.",
+    "solution": "The half-reactions are: \nMnO₄⁻ + 8H⁺ + 5e⁻ → Mn²⁺ + 4H₂O (Reduction) \nFe²⁺ → Fe³⁺ + e⁻ (Oxidation). \nMultiply the oxidation half-reaction by 5 and the reduction half-reaction by 1. Add them together to get the balanced equation: \nMnO₄⁻ + 5Fe²⁺ + 8H⁺ → Mn²⁺ + 5Fe³⁺ + 4H₂O."
   },
   {
     "id": "chem1_q002",
-    "question": "Identify the oxidizing and reducing agents in the reaction: Zn + Cu²⁺ → Zn²⁺ + Cu."
+    "question": "Identify the oxidizing and reducing agents in the reaction: Zn + Cu²⁺ → Zn²⁺ + Cu.",
+    "solution": "Zn is oxidized (loses electrons) from 0 to +2, so it is the reducing agent. Cu²⁺ is reduced (gains electrons) from +2 to 0, so it is the oxidizing agent."
   },
   {
     "id": "chem1_q003",
-    "question": "Describe the shape and orientation of the p orbital. How does it differ from an s orbital?"
+    "question": "Describe the shape and orientation of the p orbital. How does it differ from an s orbital?",
+    "solution": "A p orbital has a dumbbell shape and is oriented along the x, y, or z axis. It can hold up to 6 electrons (in 3 sub-orbitals). In contrast, an s orbital is spherical and can hold up to 2 electrons."
   },
   {
     "id": "chem1_q004",
-    "question": "What are the four quantum numbers for the last electron added in the Cl atom?"
+    "question": "What are the four quantum numbers for the last electron added in the Cl atom?",
+    "solution": "For Cl (atomic number 17), the electron configuration is [Ne]3s²3p⁵. The quantum numbers for the last electron (3p⁵) are: \nPrincipal quantum number (n) = 3, \nAzimuthal quantum number (l) = 1, \nMagnetic quantum number (mₗ) = -1, 0, or +1 (since p orbitals can have three orientations), \nSpin quantum number (mₛ) = +½ or -½."
   },
   {
     "id": "chem1_q005",
-    "question": "Using solubility rules, predict whether a precipitate forms when Na₂SO₄ is mixed with BaCl₂."
+    "question": "Using solubility rules, predict whether a precipitate forms when Na₂SO₄ is mixed with BaCl₂.",
+    "solution": "BaSO₄ is insoluble in water (according to solubility rules), so a precipitate of BaSO₄ will form when Na₂SO₄ is mixed with BaCl₂."
   },
   {
     "id": "chem1_q006",
-    "question": "Classify the following as soluble or insoluble in water: AgCl, KNO₃, PbSO₄, Na₂CO₃."
+    "question": "Classify the following as soluble or insoluble in water: AgCl, KNO₃, PbSO₄, Na₂CO₃.",
+    "solution": "AgCl is insoluble in water, KNO₃ is soluble, PbSO₄ is insoluble, and Na₂CO₃ is soluble."
   },
   {
     "id": "chem1_q007",
-    "question": "Calculate the theoretical yield of water when 5.0 g of hydrogen reacts with excess oxygen."
+    "question": "Calculate the theoretical yield of water when 5.0 g of hydrogen reacts with excess oxygen.",
+    "solution": "The balanced reaction is 2H₂ + O₂ → 2H₂O. The molar mass of H₂ is 2.0 g/mol, so 5.0 g of H₂ is 5.0 g ÷ 2.0 g/mol = 2.5 mol of H₂. Since the reaction produces 2 mol of H₂O per 2 mol of H₂, the theoretical yield of water is 2.5 mol × 18.0 g/mol = 45.0 g of H₂O."
   },
   {
     "id": "chem1_q008",
-    "question": "A reaction has a theoretical yield of 25.0 g, but only 18.0 g is obtained. Calculate the percent yield."
+    "question": "A reaction has a theoretical yield of 25.0 g, but only 18.0 g is obtained. Calculate the percent yield.",
+    "solution": "Percent yield = (actual yield / theoretical yield) × 100 = (18.0 g / 25.0 g) × 100 = 72.0%."
   },
   {
     "id": "chem1_q009",
-    "question": "Write the complete ionic and net ionic equation for the reaction between NaOH and HCl."
+    "question": "Write the complete ionic and net ionic equation for the reaction between NaOH and HCl.",
+    "solution": "The molecular equation: NaOH + HCl → NaCl + H₂O. The complete ionic equation: Na⁺ + OH⁻ + H⁺ + Cl⁻ → Na⁺ + Cl⁻ + H₂O. The net ionic equation: OH⁻ + H⁺ → H₂O."
   },
   {
     "id": "chem1_q010",
-    "question": "Does a precipitate form when aqueous solutions of Na₂CO₃ and CaCl₂ are mixed? Write the balanced net ionic equation if it does."
+    "question": "Does a precipitate form when aqueous solutions of Na₂CO₃ and CaCl₂ are mixed? Write the balanced net ionic equation if it does.",
+    "solution": "Yes, a precipitate of CaCO₃ forms. The balanced net ionic equation is: Ca²⁺ + CO₃²⁻ → CaCO₃(s)."
   },
   {
     "id": "chem1_q011",
-    "question": "Use Hess's Law to calculate ΔH° for the reaction: C(s) + O₂(g) → CO₂(g), given reactions and enthalpies."
+    "question": "Use Hess's Law to calculate ΔH° for the reaction: C(s) + O₂(g) → CO₂(g), given reactions and enthalpies.",
+    "solution": "ΔH° for the reaction is calculated by adding the enthalpies of the individual reactions. For example, if we know the enthalpy of combustion of C and the formation of CO₂, we can calculate ΔH° for the target reaction."
   },
   {
     "id": "chem1_q012",
-    "question": "Apply Hess’s Law using the following reactions to determine the enthalpy change of a target reaction involving H₂, O₂, and H₂O."
+    "question": "Apply Hess’s Law using the following reactions to determine the enthalpy change of a target reaction involving H₂, O₂, and H₂O.",
+    "solution": "We sum the enthalpies of the individual steps, reversing reactions if necessary to match the target reaction. The enthalpy change is the sum of the individual ΔH values."
   },
   {
     "id": "chem1_q013",
-    "question": "Identify the Brønsted–Lowry acid and base in the reaction: NH₃ + H₂O ⇌ NH₄⁺ + OH⁻."
+    "question": "Identify the Brønsted–Lowry acid and base in the reaction: NH₃ + H₂O ⇌ NH₄⁺ + OH⁻.",
+    "solution": "NH₃ is the Brønsted–Lowry base (accepts a proton), and H₂O is the Brønsted–Lowry acid (donates a proton)."
   },
   {
     "id": "chem1_q014",
-    "question": "Write a balanced molecular equation for the reaction between sulfuric acid and sodium hydroxide."
+    "question": "Write a balanced molecular equation for the reaction between sulfuric acid and sodium hydroxide.",
+    "solution": "H₂SO₄ + 2NaOH → Na₂SO₄ + 2H₂O."
   },
   {
     "id": "chem1_q015",
-    "question": "Calculate the amount of heat required to raise the temperature of 50.0 g of water from 25.0°C to 75.0°C. (specific heat of water = 4.18 J/g·°C)"
+    "question": "Calculate the amount of heat required to raise the temperature of 50.0 g of water from 25.0°C to 75.0°C. (specific heat of water = 4.18 J/g·°C)",
+    "solution": "q = m·c·ΔT = 50.0 g × 4.18 J/g·°C × (75.0°C - 25.0°C) = 50.0 × 4.18 × 50.0 = 1045 J."
   },
   {
     "id": "chem1_q016",
-    "question": "A 100.0 g sample of metal absorbs 836 J of heat, raising its temperature by 20.0°C. Find the specific heat capacity of the metal."
+    "question": "A 100.0 g sample of metal absorbs 836 J of heat, raising its temperature by 20.0°C. Find the specific heat capacity of the metal.",
+    "solution": "q = m·c·ΔT, so c = q / (m·ΔT) = 836 J / (100.0 g × 20.0°C) = 0.418 J/g·°C."
   },
   {
     "id": "chem1_q017",
-    "question": "How many moles of oxygen are needed to completely combust 2.0 moles of propane (C₃H₈)?"
+    "question": "How many moles of oxygen are needed to completely combust 2.0 moles of propane (C₃H₈)?",
+    "solution": "The balanced combustion reaction is: C₃H₈ + 5O₂ → 3CO₂ + 4H₂O. Therefore, 5 moles of oxygen are required for each mole of propane, so for 2.0 moles of propane, 2.0 × 5 = 10.0 moles of oxygen are needed."
   },
   {
     "id": "chem1_q018",
-    "question": "How many grams of CO₂ are produced when 10.0 g of glucose (C₆H₁₂O₆) is combusted completely?"
+    "question": "How many grams of CO₂ are produced when 10.0 g of glucose (C₆H₁₂O₆) is combusted completely?",
+    "solution": "The balanced equation is: C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O. The molar mass of glucose is 180.0 g/mol, so 10.0 g of glucose is 10.0 g ÷ 180.0 g/mol = 0.0556 mol. Since 1 mol of glucose produces 6 mol of CO₂, 0.0556 mol × 6 mol = 0.333 mol of CO₂. The molar mass of CO₂ is 44.0 g/mol, so the mass of CO₂ is 0.333 mol × 44.0 g/mol = 14.7 g."
   },
   {
     "id": "chem1_q019",
-    "question": "Express 0.0045600 with the correct number of significant figures in scientific notation."
+    "question": "Express 0.0045600 with the correct number of significant figures in scientific notation.",
+    "solution": "0.0045600 = 4.5600 × 10⁻³ (5 significant figures)."
   },
   {
     "id": "chem1_q020",
-    "question": "Perform the following calculation with correct significant figures: (3.24 × 10²) + (1.2 × 10¹)."
+    "question": "Perform the following calculation with correct significant figures: (3.24 × 10²) + (1.2 × 10¹).",
+    "solution": "3.24 × 10² = 324, 1.2 × 10¹ = 12. So, 324 + 12 = 336. The result should be expressed with 2 significant figures: 340."
   },
   {
     "id": "chem1_q021",
-    "question": "What are three best laboratory practices to follow when heating chemicals over an open flame?"
+    "question": "What are three best laboratory practices to follow when heating chemicals over an open flame?",
+    "solution": "1. Use a heat-resistant container like a beaker or crucible. 2. Ensure the chemical is not volatile or flammable. 3. Always use a flame arrester or a fume hood if necessary."
   },
   {
     "id": "chem1_q022",
-    "question": "List the appropriate PPE (personal protective equipment) for a lab where concentrated acids are used."
+    "question": "List the appropriate PPE (personal protective equipment) for a lab where concentrated acids are used.",
+    "solution": "Proper PPE includes gloves, goggles, a lab coat, and a face shield."
   },
   {
     "id": "chem1_q023",
-    "question": "Name the compound Na₂SO₄ and classify it as ionic or covalent."
+    "question": "Name the compound Na₂SO₄ and classify it as ionic or covalent.",
+    "solution": "Na₂SO₄ is sodium sulfate, and it is an ionic compound because it consists of metal (Na⁺) and nonmetal (SO₄²⁻) ions."
   },
   {
     "id": "chem1_q024",
-    "question": "Provide the name for the compound Fe(NO₃)₃, and identify the oxidation state of iron."
-  },
+    "question": "Provide the name for the compound Fe(NO₃)₃, and identify the oxidation state of iron.",
+    "solution": "Fe(NO₃)₃ is iron(III) nitrate. The oxidation state of iron is +3."
+  }
+]
+[
   {
     "id": "chem1_q025",
-    "question": "Draw and explain the electron configuration of oxygen (O)."
+    "question": "Draw and explain the electron configuration of oxygen (O).",
+    "solution": "The electron configuration of oxygen (atomic number 8) is 1s² 2s² 2p⁴. This means oxygen has two electrons in the 1s orbital, two electrons in the 2s orbital, and four electrons in the 2p orbital."
   },
   {
     "id": "chem1_q026",
-    "question": "Determine the number of protons, neutrons, and electrons in ²⁷Al³⁺."
+    "question": "Determine the number of protons, neutrons, and electrons in ²⁷Al³⁺.",
+    "solution": "Al has an atomic number of 13, so it has 13 protons and 13 electrons in the neutral atom. For the ion Al³⁺, it has lost 3 electrons, so it has 10 electrons. The mass number is 27, so the number of neutrons is 27 - 13 = 14."
   },
   {
     "id": "chem1_q027",
-    "question": "Predict the product of the reaction between H₂SO₄ and Ba(OH)₂. Write a balanced equation."
+    "question": "Predict the product of the reaction between H₂SO₄ and Ba(OH)₂. Write a balanced equation.",
+    "solution": "The reaction between sulfuric acid and barium hydroxide forms barium sulfate and water: H₂SO₄ + Ba(OH)₂ → BaSO₄ + 2H₂O."
   },
   {
     "id": "chem1_q028",
-    "question": "Write the orbital diagram for nitrogen and identify the number of unpaired electrons."
+    "question": "Write the orbital diagram for nitrogen and identify the number of unpaired electrons.",
+    "solution": "The electron configuration of nitrogen is 1s² 2s² 2p³. The orbital diagram shows: ↑↓ ↑↓ ↑ (for the 2p orbitals). There are three unpaired electrons in nitrogen."
   },
   {
     "id": "chem1_q029",
-    "question": "Classify the following reactions as redox or not: (a) Zn + HCl → ZnCl₂ + H₂, (b) NaOH + HNO₃ → NaNO₃ + H₂O."
+    "question": "Classify the following reactions as redox or not: (a) Zn + HCl → ZnCl₂ + H₂, (b) NaOH + HNO₃ → NaNO₃ + H₂O.",
+    "solution": "(a) Redox reaction. Zn is oxidized (0 to +2), and H⁺ is reduced (+1 to 0). (b) Not a redox reaction. It is an acid-base neutralization reaction."
   },
   {
     "id": "chem1_q030",
-    "question": "Explain how to prepare 250.0 mL of 0.100 M NaCl solution from solid NaCl."
+    "question": "Explain how to prepare 250.0 mL of 0.100 M NaCl solution from solid NaCl.",
+    "solution": "First, calculate the amount of NaCl needed: moles = Molarity × Volume = 0.100 mol/L × 0.250 L = 0.025 mol. The molar mass of NaCl is 58.44 g/mol, so 0.025 mol × 58.44 g/mol = 1.461 g of NaCl. Dissolve 1.461 g of NaCl in enough water to make 250.0 mL of solution."
   },
   {
     "id": "chem1_q031",
-    "question": "Calculate the molarity of a solution made by dissolving 5.00 g of NaOH in 500.0 mL of water."
+    "question": "Calculate the molarity of a solution made by dissolving 5.00 g of NaOH in 500.0 mL of water.",
+    "solution": "The molar mass of NaOH is 40.00 g/mol. The number of moles of NaOH is 5.00 g ÷ 40.00 g/mol = 0.125 mol. The volume is 500.0 mL or 0.500 L. Molarity = moles/volume = 0.125 mol ÷ 0.500 L = 0.250 M."
   },
   {
     "id": "chem1_q032",
-    "question": "Determine the empirical formula of a compound that contains 40.0% C, 6.7% H, and 53.3% O by mass."
+    "question": "Determine the empirical formula of a compound that contains 40.0% C, 6.7% H, and 53.3% O by mass.",
+    "solution": "Assume 100 g of the compound: 40.0 g C, 6.7 g H, and 53.3 g O. Moles of each element: C = 40.0 g ÷ 12.01 g/mol = 3.33 mol, H = 6.7 g ÷ 1.008 g/mol = 6.65 mol, O = 53.3 g ÷ 16.00 g/mol = 3.33 mol. The ratio of C:H:O is approximately 1:2:1, so the empirical formula is CH₂O."
   },
   {
     "id": "chem1_q033",
-    "question": "Describe the differences between ionic and covalent bonding using NaCl and H₂O as examples."
+    "question": "Describe the differences between ionic and covalent bonding using NaCl and H₂O as examples.",
+    "solution": "Ionic bonding occurs when electrons are transferred between atoms, as in NaCl, where Na donates an electron to Cl. Covalent bonding involves sharing electrons, as in H₂O, where electrons are shared between hydrogen and oxygen atoms."
   },
   {
     "id": "chem1_q034",
-    "question": "Calculate the pH of a 0.025 M HCl solution."
+    "question": "Calculate the pH of a 0.025 M HCl solution.",
+    "solution": "Since HCl is a strong acid, it dissociates completely. The concentration of H⁺ ions is 0.025 M. pH = -log[H⁺] = -log(0.025) = 1.60."
   },
   {
     "id": "chem1_q035",
-    "question": "A solution has [H⁺] = 1.0 × 10⁻⁵ M. Is the solution acidic, basic, or neutral? What is its pH?"
+    "question": "A solution has [H⁺] = 1.0 × 10⁻⁵ M. Is the solution acidic, basic, or neutral? What is its pH?",
+    "solution": "Since [H⁺] is greater than 10⁻⁷ M, the solution is acidic. pH = -log(1.0 × 10⁻⁵) = 5.00."
   },
   {
     "id": "chem1_q036",
-    "question": "Determine the limiting reagent when 4.00 g of H₂ reacts with 20.0 g of O₂ to form water."
+    "question": "Determine the limiting reagent when 4.00 g of H₂ reacts with 20.0 g of O₂ to form water.",
+    "solution": "The balanced reaction is 2H₂ + O₂ → 2H₂O. Moles of H₂ = 4.00 g ÷ 2.0 g/mol = 2.00 mol. Moles of O₂ = 20.0 g ÷ 32.00 g/mol = 0.625 mol. According to the balanced equation, 2 mol of H₂ react with 1 mol of O₂. Therefore, H₂ is the limiting reagent."
   },
   {
     "id": "chem1_q037",
-    "question": "Write a net ionic equation for the precipitation of lead(II) iodide from aqueous solutions."
+    "question": "Write a net ionic equation for the precipitation of lead(II) iodide from aqueous solutions.",
+    "solution": "The molecular equation is: Pb(NO₃)₂ + 2KI → PbI₂ + 2KNO₃. The net ionic equation is: Pb²⁺ + 2I⁻ → PbI₂(s)."
   },
   {
     "id": "chem1_q038",
-    "question": "Describe the energy changes that occur during an endothermic and an exothermic reaction."
+    "question": "Describe the energy changes that occur during an endothermic and an exothermic reaction.",
+    "solution": "In an endothermic reaction, energy is absorbed from the surroundings, leading to a positive enthalpy change (ΔH > 0). In an exothermic reaction, energy is released to the surroundings, leading to a negative enthalpy change (ΔH < 0)."
   },
   {
     "id": "chem1_q039",
-    "question": "Using enthalpies of formation, calculate ΔH° for the combustion of methane: CH₄ + 2O₂ → CO₂ + 2H₂O."
+    "question": "Using enthalpies of formation, calculate ΔH° for the combustion of methane: CH₄ + 2O₂ → CO₂ + 2H₂O.",
+    "solution": "ΔH° for the reaction = Σ(ΔH°f products) - Σ(ΔH°f reactants). Using standard enthalpies of formation: ΔH°f(CO₂) = -393.5 kJ/mol, ΔH°f(H₂O) = -241.8 kJ/mol, ΔH°f(CH₄) = -74.8 kJ/mol, ΔH°f(O₂) = 0 kJ/mol. ΔH° = [2(-241.8)] - [-74.8 + 2(0)] = -483.6 + 74.8 = -408.8 kJ/mol."
   },
   {
     "id": "chem1_q040",
-    "question": "What safety precautions should be taken when diluting concentrated sulfuric acid with water?"
+    "question": "What safety precautions should be taken when diluting concentrated sulfuric acid with water?",
+    "solution": "Always add acid to water, not the other way around, to prevent splattering. Wear appropriate PPE, such as gloves, goggles, and a lab coat. Perform the dilution in a well-ventilated area or fume hood."
   }
 ]
+
