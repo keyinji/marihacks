@@ -1,0 +1,163 @@
+[
+  {
+    "id": "CBQ001",
+    "question": "Describe the function of the mitochondrion in cellular metabolism and explain why it is often referred to as the “powerhouse” of the cell."
+  },
+  {
+    "id": "CBQ002",
+    "question": "Explain the steps of DNA replication and the role of key enzymes involved in the process."
+  },
+  {
+    "id": "CBQ003",
+    "question": "Compare and contrast the structures and functions of rough and smooth endoplasmic reticulum."
+  },
+  {
+    "id": "CBQ004",
+    "question": "Discuss how ATP is produced during aerobic respiration, including the roles of glycolysis, the Krebs cycle, and the electron transport chain."
+  },
+  {
+    "id": "CBQ005",
+    "question": "Describe the process of protein synthesis from gene to functional protein, including transcription and translation."
+  },
+  {
+    "id": "CBQ006",
+    "question": "Explain how mutations in DNA can affect the structure and function of proteins. Provide an example."
+  },
+  {
+    "id": "CBQ007",
+    "question": "Illustrate and describe the stages of mitosis, including the events that occur in each phase."
+  },
+  {
+    "id": "CBQ008",
+    "question": "Compare mitosis and meiosis in terms of purpose, process, and outcomes."
+  },
+  {
+    "id": "CBQ009",
+    "question": "Explain how crossing over during meiosis contributes to genetic variation."
+  },
+  {
+    "id": "CBQ010",
+    "question": "Describe the structure of a phospholipid and explain how phospholipids form the basis of cellular membranes."
+  },
+  {
+    "id": "CBQ011",
+    "question": "Explain the central dogma of molecular biology and how it relates to gene expression."
+  },
+  {
+    "id": "CBQ012",
+    "question": "Describe the structure of a nucleotide and explain how nucleotides link together to form DNA."
+  },
+  {
+    "id": "CBQ013",
+    "question": "Compare the processes of passive transport and active transport in cells. Give an example of each."
+  },
+  {
+    "id": "CBQ014",
+    "question": "Explain how enzymes speed up chemical reactions in cells and discuss the concept of activation energy."
+  },
+  {
+    "id": "CBQ015",
+    "question": "Discuss the differences between prokaryotic and eukaryotic cells, including at least three structural differences."
+  },
+  {
+    "id": "CBQ016",
+    "question": "Explain the role of ribosomes in protein synthesis and identify where in the cell ribosomes can be found."
+  },
+  {
+    "id": "CBQ017",
+    "question": "Describe the function of the Golgi apparatus and how it contributes to protein processing and transport."
+  },
+  {
+    "id": "CBQ018",
+    "question": "Compare the roles of DNA and RNA in the cell and explain why both are necessary for gene expression."
+  },
+  {
+    "id": "CBQ019",
+    "question": "Explain the difference between chromatin and chromosomes and when each form is present in the cell cycle."
+  },
+  {
+    "id": "CBQ020",
+    "question": "Describe the process of cytokinesis and how it differs between plant and animal cells."
+  },
+  {
+    "id": "CBQ021",
+    "question": "Explain the significance of the semi-conservative nature of DNA replication."
+  },
+  {
+    "id": "CBQ022",
+    "question": "Describe the function of lysosomes and how they contribute to maintaining cellular health."
+  },
+  {
+    "id": "CBQ023",
+    "question": "Compare the roles of mRNA, tRNA, and rRNA in the process of translation."
+  },
+  {
+    "id": "CBQ024",
+    "question": "Describe how feedback inhibition regulates enzyme activity in metabolic pathways."
+  },
+  {
+    "id": "CBQ025",
+    "question": "Discuss how the structure of proteins determines their function and what happens when a protein is denatured."
+  },
+  {
+    "id": "CBQ026",
+    "question": "Explain how the cell membrane maintains homeostasis through selective permeability."
+  },
+  {
+    "id": "CBQ027",
+    "question": "Describe the major events of each stage in the cell cycle and the significance of checkpoints."
+  },
+  {
+    "id": "CBQ028",
+    "question": "Discuss the role of centrioles and spindle fibers in mitosis."
+  },
+  {
+    "id": "CBQ029",
+    "question": "Explain how genetic recombination occurs during meiosis and why it is important for evolution."
+  },
+  {
+    "id": "CBQ030",
+    "question": "Compare and contrast the inheritance patterns of dominant, recessive, and codominant alleles."
+  },
+  {
+    "id": "CBQ031",
+    "question": "Describe how Punnett squares can be used to predict the probability of offspring genotypes."
+  },
+  {
+    "id": "CBQ032",
+    "question": "Explain the role of DNA polymerase in DNA replication and how its function ensures fidelity."
+  },
+  {
+    "id": "CBQ033",
+    "question": "Discuss the significance of hydrogen bonding in the structure of the DNA double helix."
+  },
+  {
+    "id": "CBQ034",
+    "question": "Describe how a single gene can lead to the production of different proteins through alternative splicing."
+  },
+  {
+    "id": "CBQ035",
+    "question": "Explain the difference between genotype and phenotype using an example."
+  },
+  {
+    "id": "CBQ036",
+    "question": "Describe the major differences between autosomal and sex-linked inheritance."
+  },
+  {
+    "id": "CBQ037",
+    "question": "Explain how environmental factors can influence gene expression."
+  },
+  {
+    "id": "CBQ038",
+    "question": "Describe the role of checkpoints in the cell cycle and how their failure can lead to cancer."
+  },
+  {
+    "id": "CBQ039",
+    "question": "Discuss how base-pair substitutions and frameshift mutations can affect protein synthesis."
+  },
+  {
+    "id": "CBQ040",
+    "question": "Explain how telomeres protect chromosomes and what happens to them as cells divide."
+  }
+]
+
