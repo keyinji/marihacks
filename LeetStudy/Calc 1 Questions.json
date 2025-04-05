@@ -1,0 +1,162 @@
+[
+  {
+    "id": "calc1_q001",
+    "question": "Using the limit definition of a derivative, find f'(x) for f(x) = x^2 + 3x."
+  },
+  {
+    "id": "calc1_q002",
+    "question": "Use the limit definition to prove that the derivative of sin(x) is cos(x)."
+  },
+  {
+    "id": "calc1_q003",
+    "question": "Find the derivative of f(x) = (3x^2 + 2x - 5)(x^3 - x + 4) using the product rule."
+  },
+  {
+    "id": "calc1_q004",
+    "question": "Differentiate f(x) = (2x^2 + 1)/(x^3 + 4) using the quotient rule."
+  },
+  {
+    "id": "calc1_q005",
+    "question": "Differentiate f(x) = sin(x^2) using the chain rule."
+  },
+  {
+    "id": "calc1_q006",
+    "question": "Find the derivative of f(x) = e^(3x^2 + x) using the chain rule."
+  },
+  {
+    "id": "calc1_q007",
+    "question": "Use u-substitution to evaluate the integral ∫x·cos(x^2) dx."
+  },
+  {
+    "id": "calc1_q008",
+    "question": "Use u-substitution to evaluate ∫(2x)/(x^2 + 1) dx."
+  },
+  {
+    "id": "calc1_q009",
+    "question": "Evaluate the limit lim_{x→0} (sin(3x))/x using the squeeze theorem."
+  },
+  {
+    "id": "calc1_q010",
+    "question": "Use the squeeze theorem to evaluate lim_{x→0} x^2·cos(1/x)."
+  },
+  {
+    "id": "calc1_q011",
+    "question": "Determine whether the function f(x) = (x^2 - 4)/(x - 2) is continuous at x = 2."
+  },
+  {
+    "id": "calc1_q012",
+    "question": "Show that the function f(x) = |x| is not differentiable at x = 0."
+  },
+  {
+    "id": "calc1_q013",
+    "question": "State and prove the Intermediate Value Theorem."
+  },
+  {
+    "id": "calc1_q014",
+    "question": "Use the Intermediate Value Theorem to show that f(x) = x^3 - x - 1 has a root in the interval [1, 2]."
+  },
+  {
+    "id": "calc1_q015",
+    "question": "State and prove Rolle’s Theorem."
+  },
+  {
+    "id": "calc1_q016",
+    "question": "Verify the conditions of Rolle’s Theorem for f(x) = x^2 - 2x on the interval [0, 2], then find the c such that f'(c) = 0."
+  },
+  {
+    "id": "calc1_q017",
+    "question": "State and prove the Mean Value Theorem."
+  },
+  {
+    "id": "calc1_q018",
+    "question": "Apply the Mean Value Theorem to f(x) = x^2 on the interval [1, 3]."
+  },
+  {
+    "id": "calc1_q019",
+    "question": "Use L'Hôpital's Rule to evaluate lim_{x→0} (sin(x))/x."
+  },
+  {
+    "id": "calc1_q020",
+    "question": "Use L'Hôpital’s Rule to evaluate lim_{x→∞} (ln(x)/x)."
+  },
+  {
+    "id": "calc1_q021",
+    "question": "Find the second derivative of f(x) = ln(x^2 + 1)."
+  },
+  {
+    "id": "calc1_q022",
+    "question": "Prove that the function f(x) = x^3 - 3x is continuous and differentiable everywhere."
+  },
+  {
+    "id": "calc1_q023",
+    "question": "Find the value(s) of x where the function f(x) = x^3 - 6x^2 + 9x has a local maximum or minimum."
+  },
+  {
+    "id": "calc1_q024",
+    "question": "Evaluate the limit lim_{x→2} (x^2 - 4)/(x - 2) and explain why L'Hôpital’s Rule is or is not applicable."
+  },
+  {
+    "id": "calc1_q025",
+    "question": "Differentiate f(x) = tan^2(x) using the chain rule."
+  },
+  {
+    "id": "calc1_q026",
+    "question": "Use implicit differentiation to find dy/dx if x^2 + y^2 = 25."
+  },
+  {
+    "id": "calc1_q027",
+    "question": "Find the critical points of f(x) = x^4 - 4x^3."
+  },
+  {
+    "id": "calc1_q028",
+    "question": "Use the derivative test to classify the critical points of f(x) = x^3 - 6x^2 + 9x."
+  },
+  {
+    "id": "calc1_q029",
+    "question": "Evaluate ∫(x^2)/(1 + x^3) dx using u-substitution."
+  },
+  {
+    "id": "calc1_q030",
+    "question": "Use the definition of continuity to show f(x) = 1/x is not continuous at x = 0."
+  },
+  {
+    "id": "calc1_q031",
+    "question": "Use the Mean Value Theorem to show that for f(x) = sqrt(x), f'(c) = (1/2√c) on (1, 4)."
+  },
+  {
+    "id": "calc1_q032",
+    "question": "Prove the Squeeze Theorem."
+  },
+  {
+    "id": "calc1_q033",
+    "question": "Differentiate f(x) = ln(cos(x)) using the chain rule."
+  },
+  {
+    "id": "calc1_q034",
+    "question": "Evaluate the derivative of f(x) = arctan(2x) using the chain rule."
+  },
+  {
+    "id": "calc1_q035",
+    "question": "Use L'Hôpital's Rule to find lim_{x→0} (1 - cos(x))/x^2."
+  },
+  {
+    "id": "calc1_q036",
+    "question": "Find the equation of the tangent line to f(x) = x^2 + 1/x at x = 1."
+  },
+  {
+    "id": "calc1_q037",
+    "question": "Determine whether the function f(x) = |x - 3| is differentiable at x = 3."
+  },
+  {
+    "id": "calc1_q038",
+    "question": "Use the definition of a derivative to find f'(x) for f(x) = 1/x."
+  },
+  {
+    "id": "calc1_q039",
+    "question": "Differentiate f(x) = e^x * sin(x) using the product rule."
+  },
+  {
+    "id": "calc1_q040",
+    "question": "Use the Intermediate Value Theorem to prove that the equation x^5 - x + 1 = 0 has at least one real root."
+  }
+]
